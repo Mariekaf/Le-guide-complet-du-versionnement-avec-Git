@@ -1,6 +1,6 @@
 # 📘 Le guide complet du versionnement avec Git
 
-![Couverture du livre](./cover.jpg)
+![Couverture du livre](./cover.png)
 
 ---
 
@@ -31,9 +31,9 @@ Le livre est structuré en plusieurs chapitres, disponibles dans le dossier `Cha
 - ✅ Commandes de base (init, add, commit, push, pull...)
 - ✅ Branches, fusions et résolutions de conflits
 - ✅ GitHub & GitLab : collaboration et workflows
-- ✅ Git Flow : une méthode de versionnement structurée
 - ✅ Déploiement avec GitHub Pages
-- ✅ Cybersécurité et bonnes pratiques
+- ✅ Git Flow : une méthode de versionnement structurée
+- ✅ bonnes pratiques
 - ✅ Annexes, ressources et astuces
 
 ---
@@ -68,8 +68,8 @@ Les contributions sont les bienvenues ! N’hésitez pas à ouvrir une **issue
 
 ## 📬 Contact
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ton-lien-ici)
-- 📧 Email : ton.email@exemple.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/marie-roger-fokou-kaffo-173504290/)
+- 📧 Email : Mariefk9@gmail.com
 
 ---
 
